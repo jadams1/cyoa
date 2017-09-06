@@ -9,7 +9,11 @@ or
 turn to the page after that.
 \end{center}
 
-(... what? Did you think this was going to be some fun adventure? You're just reading a book. Now decide before I grow old and all my pages fall out.)
+\vspace{\fill}
+
+\begin{center}...\end{center}
+
+\textit{what? Did you think this was going to be some fun adventure? You're just reading a book. Now decide before I grow old and all my pages fall out.}
 
 --- Page 2
 
@@ -435,10 +439,15 @@ Go to Location !!! (party time)
 
 Appendix A: Locations
 
+--- Page 72
+\includepdf[pages=1]{map.pdf}
+
+--- Page 73
+
 Appendix Q, section X:
 corkscrewed
 
---- Page 72
+--- Page 74
 
 You've reached into the future with your time travel device. You now know the answer is yes or no! Go back, switch this puzzle and try to solve it. For you'll need to take these back with you so people will see how right you are.
 
