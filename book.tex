@@ -1,5 +1,6 @@
 \documentclass[14pt]{extbook}
 \usepackage[paperheight=9in,paperwidth=6in,top=0.6in,bottom=0.6in,left=0.5in,right=0.5in]{geometry}
+\usepackage{pdfpages}
 
 \usepackage{afterpage}
 \newcommand\blankpage{%
@@ -23,5 +24,7 @@
 \pagenumbering{arabic}
 
 \include{pages}
+
+\includepdf[pages=1-22]{anothertime.pdf}
 
 \end{document}
