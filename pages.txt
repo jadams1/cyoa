@@ -438,3 +438,29 @@ Appendix A: Locations
 Appendix Q, section X:
 corkscrewed
 
+--- Page 72
+
+You've reached into the future with your time travel device. You now know the answer is yes or no! Go back, switch this puzzle and try to solve it. For you'll need to take these back with you so people will see how right you are.
+
+\begin{center}
+\begin{tabular}{ p{6cm} p{6cm} }
+\textbf{T}ell a joke & Act of selling again \\
+\textbf{H}armful deeds & Calypso's father \\
+\textbf{E}xasperating insects & Dish lister \\
+\textbf{A}lpaca-like mammal & Extened clan \\
+\textbf{N}ap or mediate & Gallbladder's neighbor \\
+\textbf{S}tory lesson & Having a sharp flavor \\
+\textbf{W}ithout exception & It'll give a chip zip \\
+\textbf{E}nhance a milkshake & Knot on a tree trunk \\
+\textbf{R}educe sharply & Locales for many Cinnabon franchises \\
+\textbf{I}nmates without hope of freedom & Many a prescription order \\
+\textbf{S}eries of mountains & Prodigal son \\
+\textbf{Y}ears of no fixed abode, you might be this & One of a number of \\
+\textbf{E}xploring fish gets captured and put in dentist clinic & Romantic partners \\
+\textbf{S}pecial delivery & Something to waft over me \\
+\textbf{O}rganized opposition to authority & Take much pleasure \\
+\textbf{R}ough roadn & Vehicles in grocery stores \\
+\textbf{N}eeds for some games of tag & With ears pricked up \\
+\textbf{O}ffering setting & Yma of Peru \\
+\end{tabular}
+\end{center}
