@@ -81,9 +81,11 @@ I suppose it’s time to explain everything. You see, I am in fact an embodiment
 
 Bow down, mortal! Or you shall never see the light of day again!
 
+\begin{center}
 To protest, turn to page 9.
 
 To resign yourself to your fate, turn to page 10.
+\end{center}
 
 --- Page 9
 
