@@ -473,3 +473,6 @@ You've reached into the future with your time travel device. You now know the an
 \textbf{O}ffering setting & Yma of Peru \\
 \end{tabular}
 \end{center}
+
+--- Page 75
+\includepdf[pages=1-22]{anothertime.pdf}
